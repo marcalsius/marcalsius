@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I'm Marc 👋
 
-<!--
-**marcalsius/marcalsius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about startups and always happy to help those at an early stage.
+I have experience scaling bootstrapped environments, launching products, and helping entrepreneurs to find the right engineers for their companies.
 
-Here are some ideas to get you started:
+**Looking to change the world through technology, investing and partnerships.**
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
