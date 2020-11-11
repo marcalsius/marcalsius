@@ -1,6 +1,6 @@
 ### Heya, I'm Marc!
 
-I'm a startup guy based in ☀️ Barcelona.
+I'm a startup guy based in Barcelona ☀️
 
 I love working around tech and innovation, and I thrive when I help founders with their startups.
 
