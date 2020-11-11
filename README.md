@@ -1,4 +1,4 @@
-### Heya, I'm Marc!
+### Heya, I'm Marc 👋
 
 I'm a startup guy based in Barcelona ☀️
 
