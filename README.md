@@ -6,9 +6,11 @@ I love working around tech and innovation, and I thrive when I help founders wit
 
 [Here](https://github.com/marcalsius?tab=stars) you can find some cool projects I've been following lately.
 
-How can I help you? At Codeworks (where I work) I wear many hats, but I can give you a hand if you are looking for developers. I'll be happy to leverage my network and connect you to potential co-founders! 
+#### How can I help you? ####
 
-Happy to collaborate if you are on prototype/launch phase and you need help with product/marketing aspects. Or if you need any help with bureaucratic stuff! As I said, I wear many hats!
+At Codeworks (where I work) I wear many hats, but I can give you a hand if you are looking for developers. I'll be happy to leverage my network and connect you to potential co-founders! 
+
+Happy to collaborate if you are on prototype/launch phase and you need help with product/marketing aspects too. Or if you need any help with bureaucratic stuff! As I said, I wear many hats!
 
 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/marc-alsius/) | [Email](mailto:alsius.marc@gmail.com)
 
