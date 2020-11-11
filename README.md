@@ -13,7 +13,7 @@ Happy to collaborate if you are on prototype/launch phase and you need help with
 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/marc-alsius/) | [Email](mailto:alsius.marc@gmail.com)
 
 
-#### Q&A ####
+#### Quick Q&A 🤓 ####
 
 **What's your superpower?**
 
@@ -21,19 +21,19 @@ Happy to collaborate if you are on prototype/launch phase and you need help with
 
 **Something you strongly believe?** 
 
-  Innovation is not an individual phenomenon, but a collective incremental and messy network phenomenon.
+  Innovation is not an individual phenomenon, but a collective and messy network phenomenon.
 
 **The last book you've read?**
 
-  *How innovation works*, by Matt Radley. Nothing to do with my previous answer...
+  *WTF:What's the Future and Why it's up to us*, by Tim O'Reilly.
 
 **What words of wisdom do you live by?**
 
   How can I help you?
   
-**A personal goal**
+**A personal goal?**
 
-Make my contribution to make the world a better place through technology, investing and partnerships.
+Contribute to make the world a better place through technology, investing and partnerships.
 
 
 
