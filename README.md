@@ -6,7 +6,7 @@ I love working around tech and innovation, and I thrive when I help entrepreneur
 
 [Here](https://github.com/marcalsius?tab=stars) you can find some cool projects I've been following lately.
 
-#### How can I help you? ####
+#### How can I help you? ####
 
 At Codeworks (where I work) I wear many hats, but I can give you a hand if you are looking for developers. I'll be happy to leverage my network and connect you to potential co-founders! 
 
