@@ -2,7 +2,7 @@
 
 I'm a startup guy based in Barcelona ☀️
 
-I love working around tech and innovation, and I thrive working closely to entrepreneurs.
+I love working around tech and innovation, and I thrive helping entrepreneurs launch their startups.
 
 [Here](https://github.com/marcalsius?tab=stars) you can find some cool projects I've been following lately.
 
