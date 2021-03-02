@@ -31,7 +31,7 @@ Happy to collaborate if you are on prototype/launch phase and you need help with
 
 **What words of wisdom do you live by?**
 
-  How can I help you?
+  Empathy
   
 **A personal goal?**
 
